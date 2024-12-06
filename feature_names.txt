@@ -1,0 +1,130 @@
+Turnout_Rate
+HegarD_18P_U.S. Rep 31_Percentage
+LesterD_18P_U.S. Rep 31_Percentage
+MannD_18P_U.S. Rep 31_Percentage
+ClarkD_18P_U.S. Rep 31_Percentage
+AllredD_18P_U.S. Rep 32_Percentage
+MaternowskiD_18P_U.S. Rep 32_Percentage
+ShippD_18P_U.S. Rep 32_Percentage
+MarshallD_18P_U.S. Rep 32_Percentage
+SalernoD_18P_U.S. Rep 32_Percentage
+RodriguezD_18P_U.S. Rep 32_Percentage
+MeierD_18P_U.S. Rep 32_Percentage
+CarterR_18G_U.S. Rep 31_Percentage
+HegarD_18G_U.S. Rep 31_Percentage
+HopeL_18G_U.S. Rep 31_Percentage
+SessionsR_18G_U.S. Rep 32_Percentage
+AllredD_18G_U.S. Rep 32_Percentage
+BakerL_18G_U.S. Rep 32_Percentage
+CarterR_18P_U.S. Rep 31_Percentage
+SweeneyR_18P_U.S. Rep 31_Percentage
+BrownR_18P_U.S. Rep 32_Percentage
+SessionsR_18P_U.S. Rep 32_Percentage
+BennetD_20P_President_Percentage
+BidenD_20P_President_Percentage
+BloombergD_20P_President_Percentage
+BookerD_20P_President_Percentage
+CastroD_20P_President_Percentage
+De La FuenteD_20P_President_Percentage
+DelaneyD_20P_President_Percentage
+GabbardD_20P_President_Percentage
+KlobucharD_20P_President_Percentage
+PatrickD_20P_President_Percentage
+SandersD_20P_President_Percentage
+SteyerD_20P_President_Percentage
+WarrenD_20P_President_Percentage
+WellsD_20P_President_Percentage
+WilliamsonD_20P_President_Percentage
+YangD_20P_President_Percentage
+ButtigiegD_20P_President_Percentage
+GrimesD_20P_U.S. Rep 31_Percentage
+HankeD_20P_U.S. Rep 31_Percentage
+ImamD_20P_U.S. Rep 31_Percentage
+JanjigianD_20P_U.S. Rep 31_Percentage
+MannD_20P_U.S. Rep 31_Percentage
+YoungD_20P_U.S. Rep 31_Percentage
+AllredD_20P_U.S. Rep 32_Percentage
+BidenD_20G_President_Percentage
+TrumpR_20G_President_Percentage
+JorgensenL_20G_President_Percentage
+HawkinsG_20G_President_Percentage
+Write-InW_20G_President_Percentage
+CarterR_20G_U.S. Rep 31_Percentage
+ImamD_20G_U.S. Rep 31_Percentage
+PattersonL_20G_U.S. Rep 31_Percentage
+AllredD_20G_U.S. Rep 32_Percentage
+CollinsR_20G_U.S. Rep 32_Percentage
+Mowrey PetersonL_20G_U.S. Rep 32_Percentage
+SigmonI_20G_U.S. Rep 32_Percentage
+CrockettD_22P_U.S. Rep 30_Percentage
+DixonD_22P_U.S. Rep 30_Percentage
+HamiltonD_22P_U.S. Rep 30_Percentage
+Jones HillD_22P_U.S. Rep 30_Percentage
+LankfordD_22P_U.S. Rep 30_Percentage
+CarawayD_22P_U.S. Rep 30_Percentage
+MasonD_22P_U.S. Rep 30_Percentage
+MulughetaD_22P_U.S. Rep 30_Percentage
+WilliamsD_22P_U.S. Rep 30_Percentage
+AllredD_22P_U.S. Rep 32_Percentage
+QuintanillaD_22P_U.S. Rep 33_Percentage
+VeaseyD_22P_U.S. Rep 33_Percentage
+GuillenR_22G_State Rep 31_Percentage
+GutierrezD_22G_State Rep 31_Percentage
+HunterR_22G_State Rep 32_Percentage
+CarterR_22G_U.S. Rep 31_Percentage
+AllredD_22G_U.S. Rep 32_Percentage
+SwadR_22G_U.S. Rep 32_Percentage
+GuillenR_22P_State Rep 31_Percentage
+BerlangaR_22P_State Rep 31_Percentage
+MonrealR_22P_State Rep 31_Percentage
+HunterR_22P_State Rep 32_Percentage
+CarterR_22P_U.S. Rep 31_Percentage
+GarapatiR_22P_U.S. Rep 31_Percentage
+WilliamsR_22P_U.S. Rep 31_Percentage
+DavisR_22P_U.S. Rep 32_Percentage
+DayR_22P_U.S. Rep 32_Percentage
+NamdarR_22P_U.S. Rep 32_Percentage
+OkpaR_22P_U.S. Rep 32_Percentage
+SwadR_22P_U.S. Rep 32_Percentage
+WebbR_22P_U.S. Rep 32_Percentage
+BidenD_24P_President_Percentage
+CornejoD_24P_President_Percentage
+LockeD_24P_President_Percentage
+LozadaD_24P_President_Percentage
+PerezD_24P_President_Percentage
+PhillipsD_24P_President_Percentage
+UygurD_24P_President_Percentage
+WilliamsonD_24P_President_Percentage
+McAuliffeD_24P_State Rep 32_Percentage
+Von PfeilD_24P_U.S. Rep 31_Percentage
+WalbridgeD_24P_U.S. Rep 31_Percentage
+WhitlowD_24P_U.S. Rep 31_Percentage
+ButcherD_24P_U.S. Rep 32_Percentage
+ChaudhryD_24P_U.S. Rep 32_Percentage
+CornwallisD_24P_U.S. Rep 32_Percentage
+FelderD_24P_U.S. Rep 32_Percentage
+JohnsonD_24P_U.S. Rep 32_Percentage
+ManningD_24P_U.S. Rep 32_Percentage
+McDowellD_24P_U.S. Rep 32_Percentage
+MooreD_24P_U.S. Rep 32_Percentage
+PanayiotouD_24P_U.S. Rep 32_Percentage
+WilliamsD_24P_U.S. Rep 32_Percentage
+BinkleyR_24P_President_Percentage
+HaleyR_24P_President_Percentage
+StuckenbergR_24P_President_Percentage
+TrumpR_24P_President_Percentage
+ChristieR_24P_President_Percentage
+RamaswamyR_24P_President_Percentage
+HutchinsonR_24P_President_Percentage
+DeSantisR_24P_President_Percentage
+UncommittedR_24P_President_Percentage
+AbelR_24P_U.S. Rep 31_Percentage
+AndersonR_24P_U.S. Rep 31_Percentage
+CarterR_24P_U.S. Rep 31_Percentage
+GarapatiR_24P_U.S. Rep 31_Percentage
+LatimerR_24P_U.S. Rep 31_Percentage
+WilliamsR_24P_U.S. Rep 31_Percentage
+BlewettR_24P_U.S. Rep 32_Percentage
+DayR_24P_U.S. Rep 32_Percentage
+FeriaR_24P_U.S. Rep 32_Percentage
+KhanR_24P_U.S. Rep 32_Percentage
